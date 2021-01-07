@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhaCungCap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhaCungCap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="DienThoai" type="xs:string" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC001</MaNCC>
+    <TenNCC>Khải Minh</TenNCC>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0347785521</DienThoai>
+    <Email>l124@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC002</MaNCC>
+    <TenNCC>Duy Toàn</TenNCC>
+    <DiaChi>Hà Nội</DiaChi>
+    <DienThoai>0347789044</DienThoai>
+    <Email>lun124@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC003</MaNCC>
+    <TenNCC>Duy Toàn</TenNCC>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0377785521</DienThoai>
+    <Email>l1124@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC004</MaNCC>
+    <TenNCC>Minh Khoa</TenNCC>
+    <DiaChi>Hà Nội</DiaChi>
+    <DienThoai>0847785521</DienThoai>
+    <Email>l2124@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC005</MaNCC>
+    <TenNCC>Minh Khoa</TenNCC>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0947785521</DienThoai>
+    <Email>rl124@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC006</MaNCC>
+    <TenNCC>Thế Toàn</TenNCC>
+    <DiaChi>TPHCM</DiaChi>
+    <DienThoai>0757785521</DienThoai>
+    <Email>l1524@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC007</MaNCC>
+    <TenNCC>Kim Anh</TenNCC>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0307785521</DienThoai>
+    <Email>l6124@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC008</MaNCC>
+    <TenNCC>Kim Anh</TenNCC>
+    <DiaChi>TP HCM</DiaChi>
+    <DienThoai>0348785521</DienThoai>
+    <Email>lui124@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC009</MaNCC>
+    <TenNCC>Đan Nguyên</TenNCC>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0347789521</DienThoai>
+    <Email>l1624@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NCC010</MaNCC>
+    <TenNCC>Văn Tài</TenNCC>
+    <DiaChi>Hà Nội</DiaChi>
+    <DienThoai>0347005521</DienThoai>
+    <Email>l1924@gmail.com</Email>
+  </_x0027_NhaCungCap_x0027_>
+</NewDataSet>

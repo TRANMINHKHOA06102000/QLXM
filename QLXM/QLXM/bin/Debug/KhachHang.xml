@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_KhachHang_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_KhachHang_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaKH" type="xs:string" minOccurs="0" />
+                <xs:element name="TenKH" type="xs:string" minOccurs="0" />
+                <xs:element name="CMND" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="DienThoai" type="xs:string" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH001</MaKH>
+    <TenKH>Võ Thành Luân</TenKH>
+    <CMND>212123235 </CMND>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0347789021</DienThoai>
+    <Email>luan124@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH002</MaKH>
+    <TenKH>Võ Văn Nhất</TenKH>
+    <CMND>212464345 </CMND>
+    <DiaChi>Quảng Nam</DiaChi>
+    <DienThoai>0343459029</DienThoai>
+    <Email>nhat234@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH003</MaKH>
+    <TenKH>Thái Duy Đoan</TenKH>
+    <CMND>212464567 </CMND>
+    <DiaChi>HCM</DiaChi>
+    <DienThoai>0343659111</DienThoai>
+    <Email>doanthai123@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH004</MaKH>
+    <TenKH>Trần Minh Khoa</TenKH>
+    <CMND>212464568 </CMND>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0397776789</DienThoai>
+    <Email>khoapro@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH005</MaKH>
+    <TenKH>Huỳnh Thanh Xuyến</TenKH>
+    <CMND>212464654 </CMND>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0391234561</DienThoai>
+    <Email>xuyencute@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH006</MaKH>
+    <TenKH>Nguyễn Duy Quang</TenKH>
+    <CMND>212464444 </CMND>
+    <DiaChi>HCM</DiaChi>
+    <DienThoai>0393345617</DienThoai>
+    <Email>quangga@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH007</MaKH>
+    <TenKH>Huỳnh Thị Như Ý</TenKH>
+    <CMND>212464232 </CMND>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0383456098</DienThoai>
+    <Email>nhuycutedt@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH008</MaKH>
+    <TenKH>Nguyễn Thị Thảo</TenKH>
+    <CMND>212464111 </CMND>
+    <DiaChi>Quảng Nam</DiaChi>
+    <DienThoai>0383487088</DienThoai>
+    <Email>thaoxg@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH009</MaKH>
+    <TenKH>Nguyễn Thị Lan Vy</TenKH>
+    <CMND>212464342 </CMND>
+    <DiaChi>Quảng Nam</DiaChi>
+    <DienThoai>0373656777</DienThoai>
+    <Email>lanvy323@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+  <_x0027_KhachHang_x0027_>
+    <MaKH>MKH010</MaKH>
+    <TenKH>Nguyễn Ái Nam</TenKH>
+    <CMND>212464233 </CMND>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <DienThoai>0383654675</DienThoai>
+    <Email>namgg328@gmail.com</Email>
+  </_x0027_KhachHang_x0027_>
+</NewDataSet>

@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_PhieuNhap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_PhieuNhap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPN" type="xs:string" minOccurs="0" />
+                <xs:element name="NgayNhap" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="MaNV" type="xs:string" minOccurs="0" />
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN001</MaPN>
+    <NgayNhap>2020-06-05T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV001</MaNV>
+    <MaNCC>NCC001</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN002</MaPN>
+    <NgayNhap>2020-06-06T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV002</MaNV>
+    <MaNCC>NCC002</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN003</MaPN>
+    <NgayNhap>2020-06-07T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV003</MaNV>
+    <MaNCC>NCC003</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN004</MaPN>
+    <NgayNhap>2020-06-08T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV004</MaNV>
+    <MaNCC>NCC004</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN005</MaPN>
+    <NgayNhap>2020-06-09T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV005</MaNV>
+    <MaNCC>NCC005</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN006</MaPN>
+    <NgayNhap>2020-06-05T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV006</MaNV>
+    <MaNCC>NCC006</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN007</MaPN>
+    <NgayNhap>2020-06-06T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV007</MaNV>
+    <MaNCC>NCC007</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN008</MaPN>
+    <NgayNhap>2020-06-07T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV008</MaNV>
+    <MaNCC>NCC008</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN009</MaPN>
+    <NgayNhap>2020-06-08T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV009</MaNV>
+    <MaNCC>NCC009</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPN>MPN010</MaPN>
+    <NgayNhap>2020-06-09T00:00:00+07:00</NgayNhap>
+    <MaNV>MNV010</MaNV>
+    <MaNCC>NCC010</MaNCC>
+  </_x0027_PhieuNhap_x0027_>
+</NewDataSet>

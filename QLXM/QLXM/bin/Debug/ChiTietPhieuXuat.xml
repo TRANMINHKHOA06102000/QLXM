@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_ChiTietPhieuXuat_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_ChiTietPhieuXuat_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPX" type="xs:string" minOccurs="0" />
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongXuat" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGiaXuat" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Thue" type="xs:int" minOccurs="0" />
+                <xs:element name="Tong" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX001</MaPX>
+    <MaHang>MH0001</MaHang>
+    <SoLuongXuat>90</SoLuongXuat>
+    <DonGiaXuat>100.0000</DonGiaXuat>
+    <Thue>1</Thue>
+    <Tong>90000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX002</MaPX>
+    <MaHang>MH0002</MaHang>
+    <SoLuongXuat>100</SoLuongXuat>
+    <DonGiaXuat>100.0000</DonGiaXuat>
+    <Thue>2</Thue>
+    <Tong>100000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX003</MaPX>
+    <MaHang>MH0003</MaHang>
+    <SoLuongXuat>100</SoLuongXuat>
+    <DonGiaXuat>200.0000</DonGiaXuat>
+    <Thue>3</Thue>
+    <Tong>200000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX004</MaPX>
+    <MaHang>MH0004</MaHang>
+    <SoLuongXuat>300</SoLuongXuat>
+    <DonGiaXuat>200.0000</DonGiaXuat>
+    <Thue>3</Thue>
+    <Tong>600000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX005</MaPX>
+    <MaHang>MH0005</MaHang>
+    <SoLuongXuat>350</SoLuongXuat>
+    <DonGiaXuat>300.0000</DonGiaXuat>
+    <Thue>2</Thue>
+    <Tong>700000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX006</MaPX>
+    <MaHang>MH0006</MaHang>
+    <SoLuongXuat>90</SoLuongXuat>
+    <DonGiaXuat>100.0000</DonGiaXuat>
+    <Thue>1</Thue>
+    <Tong>9000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX007</MaPX>
+    <MaHang>MH0005</MaHang>
+    <SoLuongXuat>100</SoLuongXuat>
+    <DonGiaXuat>100.0000</DonGiaXuat>
+    <Thue>2</Thue>
+    <Tong>100000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX008</MaPX>
+    <MaHang>MH0005</MaHang>
+    <SoLuongXuat>100</SoLuongXuat>
+    <DonGiaXuat>200.0000</DonGiaXuat>
+    <Thue>3</Thue>
+    <Tong>200000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX009</MaPX>
+    <MaHang>MH0006</MaHang>
+    <SoLuongXuat>300</SoLuongXuat>
+    <DonGiaXuat>200.0000</DonGiaXuat>
+    <Thue>3</Thue>
+    <Tong>1000000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+  <_x0027_ChiTietPhieuXuat_x0027_>
+    <MaPX>MPX010</MaPX>
+    <MaHang>MH0006</MaHang>
+    <SoLuongXuat>350</SoLuongXuat>
+    <DonGiaXuat>300.0000</DonGiaXuat>
+    <Thue>2</Thue>
+    <Tong>950000</Tong>
+  </_x0027_ChiTietPhieuXuat_x0027_>
+</NewDataSet>

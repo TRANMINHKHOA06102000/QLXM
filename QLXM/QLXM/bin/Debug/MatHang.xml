@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_MatHang_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_MatHang_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="TenHang" type="xs:string" minOccurs="0" />
+                <xs:element name="NhaSx" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuong" type="xs:int" minOccurs="0" />
+                <xs:element name="ThongTinBaoHanh" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_MatHang_x0027_>
+    <MaHang>MH0001</MaHang>
+    <TenHang>Sirius FI</TenHang>
+    <NhaSx>Yamaha</NhaSx>
+    <SoLuong>50</SoLuong>
+    <ThongTinBaoHanh>Bảo hành 2 năm</ThongTinBaoHanh>
+    <DonViTinh>VNĐ</DonViTinh>
+  </_x0027_MatHang_x0027_>
+  <_x0027_MatHang_x0027_>
+    <MaHang>MH0002</MaHang>
+    <TenHang>Sirius RC</TenHang>
+    <NhaSx>Yamaha</NhaSx>
+    <SoLuong>55</SoLuong>
+    <ThongTinBaoHanh>Bảo hành 2 năm</ThongTinBaoHanh>
+    <DonViTinh>VNĐ</DonViTinh>
+  </_x0027_MatHang_x0027_>
+  <_x0027_MatHang_x0027_>
+    <MaHang>MH0003</MaHang>
+    <TenHang>Sirius FC</TenHang>
+    <NhaSx>Yamaha</NhaSx>
+    <SoLuong>80</SoLuong>
+    <ThongTinBaoHanh>Bảo hành 12 tháng</ThongTinBaoHanh>
+    <DonViTinh>VNĐ</DonViTinh>
+  </_x0027_MatHang_x0027_>
+  <_x0027_MatHang_x0027_>
+    <MaHang>MH0004</MaHang>
+    <TenHang>Blade 110</TenHang>
+    <NhaSx>HonDa</NhaSx>
+    <SoLuong>90</SoLuong>
+    <ThongTinBaoHanh>Bảo hành 2 năm</ThongTinBaoHanh>
+    <DonViTinh>VNĐ</DonViTinh>
+  </_x0027_MatHang_x0027_>
+  <_x0027_MatHang_x0027_>
+    <MaHang>MH0005</MaHang>
+    <TenHang>Sh Mode 125</TenHang>
+    <NhaSx>HonDa</NhaSx>
+    <SoLuong>100</SoLuong>
+    <ThongTinBaoHanh>Bảo hành 12 tháng</ThongTinBaoHanh>
+    <DonViTinh>VNĐ</DonViTinh>
+  </_x0027_MatHang_x0027_>
+  <_x0027_MatHang_x0027_>
+    <MaHang>MH0006</MaHang>
+    <TenHang>Exciter FC</TenHang>
+    <NhaSx>Yamaha</NhaSx>
+    <SoLuong>40</SoLuong>
+    <ThongTinBaoHanh>Bảo hành 2 năm</ThongTinBaoHanh>
+    <DonViTinh>VNĐ</DonViTinh>
+  </_x0027_MatHang_x0027_>
+</NewDataSet>

@@ -1,0 +1,14 @@
+D:\HOCTAP\XML\QLXM\QLXM\bin\Debug\QLXM.exe.config
+D:\HOCTAP\XML\QLXM\QLXM\bin\Debug\QLXM.exe
+D:\HOCTAP\XML\QLXM\QLXM\bin\Debug\QLXM.pdb
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.csprojAssemblyReference.cache
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.Properties.Resources.resources
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.csproj.GenerateResource.cache
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.csproj.CoreCompileInputs.cache
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.exe
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.pdb
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.DanhMucMatHang.resources
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.DangNhap.resources
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.HeThong.resources
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.GDHeThong.resources
+D:\HOCTAP\XML\QLXM\QLXM\obj\Debug\QLXM.GUI.XNDiLam.resources

@@ -1,0 +1,2 @@
+user: khoa or luan or xuyen or admin or khach
+pass: 12345

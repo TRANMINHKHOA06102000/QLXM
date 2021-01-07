@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhanVien_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhanVien_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNV" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNV" type="xs:string" minOccurs="0" />
+                <xs:element name="NamSinh" type="xs:int" minOccurs="0" />
+                <xs:element name="GioiTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="Diachi" type="xs:string" minOccurs="0" />
+                <xs:element name="DienThoai" type="xs:string" minOccurs="0" />
+                <xs:element name="ChucVu" type="xs:string" minOccurs="0" />
+                <xs:element name="LuongCoBan" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV001</MaNV>
+    <TenNV>Nguyễn Duy Minh</TenNV>
+    <NamSinh>1995</NamSinh>
+    <GioiTinh>male      </GioiTinh>
+    <Diachi>Đà Nẵng</Diachi>
+    <DienThoai>0347785521</DienThoai>
+    <ChucVu>Tổ Trưởng</ChucVu>
+    <LuongCoBan>3000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV002</MaNV>
+    <TenNV>Nguyễn Duy Toàn</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>male      </GioiTinh>
+    <Diachi>Đà Nẵng</Diachi>
+    <DienThoai>0347785441</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV003</MaNV>
+    <TenNV>Nguyễn Thị Ánh</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>female    </GioiTinh>
+    <Diachi>Quảng Nam</Diachi>
+    <DienThoai>0347783321</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV004</MaNV>
+    <TenNV>Trần Duy Long</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>male      </GioiTinh>
+    <Diachi>Quảng Ngãi</Diachi>
+    <DienThoai>0347756521</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV005</MaNV>
+    <TenNV>Nguyễn Ánh Tuyết</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>female    </GioiTinh>
+    <Diachi>Đà Nẵng</Diachi>
+    <DienThoai>0347789521</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV006</MaNV>
+    <TenNV>Nguyễn Duy Khánh</TenNV>
+    <NamSinh>1995</NamSinh>
+    <GioiTinh>male      </GioiTinh>
+    <Diachi>Đà Nẵng</Diachi>
+    <DienThoai>0347985521</DienThoai>
+    <ChucVu>Tổ Trưởng</ChucVu>
+    <LuongCoBan>3000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV007</MaNV>
+    <TenNV>Nguyễn Duy Tài</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>male      </GioiTinh>
+    <Diachi>Đà Nẵng</Diachi>
+    <DienThoai>0347780441</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV008</MaNV>
+    <TenNV>Nguyễn Thị Mai</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>female    </GioiTinh>
+    <Diachi>Quảng Nam</Diachi>
+    <DienThoai>0397783321</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV009</MaNV>
+    <TenNV>Trần Nhật Long</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>male      </GioiTinh>
+    <Diachi>Quảng Ngãi</Diachi>
+    <DienThoai>0346756521</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNV>MNV010</MaNV>
+    <TenNV>Nguyễn Minh Tuyết</TenNV>
+    <NamSinh>2000</NamSinh>
+    <GioiTinh>female    </GioiTinh>
+    <Diachi>Đà Nẵng</Diachi>
+    <DienThoai>0847789521</DienThoai>
+    <ChucVu>Nhân Viên</ChucVu>
+    <LuongCoBan>1000.0000</LuongCoBan>
+  </_x0027_NhanVien_x0027_>
+</NewDataSet>

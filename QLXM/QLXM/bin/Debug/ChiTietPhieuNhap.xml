@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_ChiTietPhieuNhap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_ChiTietPhieuNhap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPN" type="xs:string" minOccurs="0" />
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongNhap" type="xs:int" minOccurs="0" />
+                <xs:element name="DonGiaNhap" type="xs:decimal" minOccurs="0" />
+                <xs:element name="Thue" type="xs:int" minOccurs="0" />
+                <xs:element name="TongTien" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN001</MaPN>
+    <MaHang>MH0001</MaHang>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>500.0000</DonGiaNhap>
+    <Thue>1</Thue>
+    <TongTien>50500</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN002</MaPN>
+    <MaHang>MH0002</MaHang>
+    <SoLuongNhap>200</SoLuongNhap>
+    <DonGiaNhap>300.0000</DonGiaNhap>
+    <Thue>1</Thue>
+    <TongTien>60500</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN003</MaPN>
+    <MaHang>MH0003</MaHang>
+    <SoLuongNhap>200</SoLuongNhap>
+    <DonGiaNhap>300.0000</DonGiaNhap>
+    <Thue>2</Thue>
+    <TongTien>61000</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN004</MaPN>
+    <MaHang>MH0004</MaHang>
+    <SoLuongNhap>400</SoLuongNhap>
+    <DonGiaNhap>200.0000</DonGiaNhap>
+    <Thue>3</Thue>
+    <TongTien>81500</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN005</MaPN>
+    <MaHang>MH0005</MaHang>
+    <SoLuongNhap>400</SoLuongNhap>
+    <DonGiaNhap>500.0000</DonGiaNhap>
+    <Thue>1</Thue>
+    <TongTien>90000</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN006</MaPN>
+    <MaHang>MH0006</MaHang>
+    <SoLuongNhap>100</SoLuongNhap>
+    <DonGiaNhap>500.0000</DonGiaNhap>
+    <Thue>1</Thue>
+    <TongTien>50500</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN007</MaPN>
+    <MaHang>MH0005</MaHang>
+    <SoLuongNhap>200</SoLuongNhap>
+    <DonGiaNhap>300.0000</DonGiaNhap>
+    <Thue>1</Thue>
+    <TongTien>60500</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN008</MaPN>
+    <MaHang>MH0005</MaHang>
+    <SoLuongNhap>200</SoLuongNhap>
+    <DonGiaNhap>300.0000</DonGiaNhap>
+    <Thue>2</Thue>
+    <TongTien>61000</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN009</MaPN>
+    <MaHang>MH0006</MaHang>
+    <SoLuongNhap>400</SoLuongNhap>
+    <DonGiaNhap>200.0000</DonGiaNhap>
+    <Thue>3</Thue>
+    <TongTien>81500</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+  <_x0027_ChiTietPhieuNhap_x0027_>
+    <MaPN>MPN010</MaPN>
+    <MaHang>MH0006</MaHang>
+    <SoLuongNhap>400</SoLuongNhap>
+    <DonGiaNhap>500.0000</DonGiaNhap>
+    <Thue>1</Thue>
+    <TongTien>90000</TongTien>
+  </_x0027_ChiTietPhieuNhap_x0027_>
+</NewDataSet>
